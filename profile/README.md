@@ -91,6 +91,50 @@ We help teams design, build and operate reliable digital systems that support re
 
 ---
 
+## Meet Our Partners
+
+<p>
+  <img src="https://img.shields.io/badge/Partners-DXBMark%20Network-F58220?style=for-the-badge&logo=handshake&logoColor=white" alt="DXBMark Partners">
+</p>
+
+We are proud to partner with leading industry experts, combining innovation, technology and digital solutions to deliver high-quality services to our clients.
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://mwheba.com/">
+<img src="https://dxbmark.com/wp-content/uploads/2025/03/MAWHWBA-Logo-Wide-1536x380.png" width="220" alt="MWHEBA Agency">
+</a>
+<br><br>
+<strong>MWHEBA Agency</strong>
+<br>
+Creative and digital solutions focused on branding, design and business growth.
+</td>
+
+<td align="center" width="33%">
+<a href="https://mwheba.net/">
+<img src="https://dxbmark.com/wp-content/uploads/elementor/thumbs/logo87-r2azq7ra4ie816yqeni94gar4pof2s1ocx5mzmshjs.png" width="170" alt="MWHEBA Hosting">
+</a>
+<br><br>
+<strong>MWHEBA Hosting</strong>
+<br>
+Reliable & scalable web hosting solutions tailored for performance and stability.
+</td>
+
+<td align="center" width="33%">
+<a href="https://www.tawk.to/software/live-chat?pid=ep397g7">
+<img src="https://dxbmark.com/wp-content/uploads/2025/03/tawkto-logo.png" width="150" alt="Tawk.to">
+</a>
+<br><br>
+<strong>Tawk.to</strong>
+<br>
+Free live chat and communication platform for websites and customer engagement.
+</td>
+</tr>
+</table>
+
+---
+
 ## Technology areas
 
 <p>
