@@ -46,8 +46,6 @@ We help teams build and manage:
 
 | Project | Description |
 |---|---|
-| [Media Equipment Manager](https://github.com/DXBMark/media-equipment-manager) | Equipment booking and management platform for schools and organisations. |
-| [AI Chatbot](https://github.com/DXBMark/ai-chatbot) | AI-powered chatbot system for business support and automation. |
 | [Badge Builder](https://github.com/DXBMark/badge-builder) | Tooling for creating badges and visual assets. |
 
 ---
