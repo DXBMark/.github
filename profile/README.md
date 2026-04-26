@@ -121,7 +121,3 @@ We’re open to software projects, SaaS partnerships, hosting solutions and prof
     <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-
-Website: https://www.dxbmark.com  
-Email: info@dxbmark.com  
-LinkedIn: https://www.linkedin.com/company/dxbmark
