@@ -4,11 +4,11 @@
 
 # DXBMark Ltd.
 
-**Design. eXperience. Beyond.**
+**Build. Scale. Run.**
 
-DXBMark builds SaaS platforms, software systems, web applications and cloud infrastructure that help startups and growing businesses launch, scale and operate efficiently.
+DXBMark builds SaaS platforms, software systems, cloud infrastructure and operational digital tools for startups and growing businesses.
 
-We combine product design, software engineering, hosting, automation and professional IT solutions to create reliable digital systems for modern companies.
+We combine software engineering, infrastructure, hosting, automation and professional IT solutions to build reliable digital systems for modern companies.
 
 <p>
   <a href="https://www.dxbmark.com">
@@ -45,7 +45,7 @@ We combine product design, software engineering, hosting, automation and profess
 - Backup, monitoring and performance optimisation
 - Secure and scalable hosting environments
 
-### Web & Digital Experience
+### Web Systems & Interfaces
 
 - Web design and user experience
 - Corporate websites and landing pages
